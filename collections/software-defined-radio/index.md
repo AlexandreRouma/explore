@@ -4,6 +4,7 @@ items:
  - gnuradio/volk
  - csete/gqrx
  - jgaeddert/liquid-dsp
+ - AlexandreRouma/SDRPlusPlus
  - miek/inspectrum
  - kpreid/shinysdr
  - RangeNetworks/openbts
